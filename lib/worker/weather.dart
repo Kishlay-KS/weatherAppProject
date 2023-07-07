@@ -13,7 +13,7 @@ class weatherData {
 
   Future<void> getData() async {
     try {
-      String api_key = "015cbafd1fd4d59eac34b1161e0a0d51";
+      String api_key = "APIKEY";
       var url = Uri.parse(
           "https://api.openweathermap.org/data/2.5/weather?q=$location&appid=$api_key");
       var response = await http.get(url);
