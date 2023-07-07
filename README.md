@@ -15,6 +15,10 @@ Know the weather around you and of foreign cities with this app. The data provid
 ## Screens
 
 <p align="left">
-<img src="https://github.com/Kishlay-KS/TrackExpense/blob/main/ScreenShots/Screenshot_1688512368.png" data-canonical- 
+<img src="https://github.com/Kishlay-KS/weatherAppProject/blob/main/Screenshot_1688756131.png" data-canonical- 
+  src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Kishlay-KS/weatherAppProject/blob/main/Screenshot_1688756138.png" data-canonical- 
+  src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+<img src="https://github.com/Kishlay-KS/weatherAppProject/blob/main/Screenshot_1688756144.png" data-canonical- 
   src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 </p>
