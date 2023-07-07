@@ -1,16 +1,16 @@
-# proj_2
+# Weather App
 
-A new Flutter project.
+Know the weather around you and of foreign cities with this app. The data provided is by OpenWeatherAPI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- The pre-built .apk file for the app can be downloaded [here]().
+- Open the file in your android device. If prompted, open using Google Drive and then Package Installer.
+- Give necessary permissions to start the installation and start using the application
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
+- [Flutter](https://docs.flutter.dev/get-started/install)
+- If you face an error of missing dependencies, try running flutter pub get.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screens
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
