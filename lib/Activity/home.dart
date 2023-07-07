@@ -34,9 +34,13 @@ class _HomeState extends State<Home> {
           child: Container(
             decoration: BoxDecoration(
                 gradient: LinearGradient(
-              begin: Alignment.topRight,
-              end: Alignment.bottomLeft,
-              colors: [Colors.pink, Colors.lightBlue],
+              begin: Alignment.topCenter,
+              end: Alignment.bottomCenter,
+              colors: [
+                Colors.blue,
+                Colors.white,
+                Colors.blue,
+              ],
             )),
             // margin: EdgeInsets.all(12.0),
             padding: EdgeInsets.all(14.0),
