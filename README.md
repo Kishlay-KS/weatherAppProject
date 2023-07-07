@@ -7,6 +7,7 @@ Know the weather around you and of foreign cities with this app. The data provid
 - The pre-built .apk file for the app can be downloaded [here]().
 - Open the file in your android device. If prompted, open using Google Drive and then Package Installer.
 - Give necessary permissions to start the installation and start using the application
+- Replace the APIKEY with your key in weather.dart
 
 ## Requirements
 - [Flutter](https://docs.flutter.dev/get-started/install)
